@@ -16,10 +16,10 @@
 **1.[Using Raspberry Pi and Python to Send Email Alerts](https://engineersportal.com/blog/2017/9/23/using-raspberry-pi-and-python-to-send-email-alerts)**
 <br/>
 **2.<https://www.instructables.com/id/Raspberry-Pi-Motion-Detection-Security-Camera/>**
-
 <br/>
-**3.<http://naelshiab.com/tutorial-send-email-python/>**
-
+**3.<https://naelshiab.com/tutorial-send-email-python/>**
+<br/>
+<br/>
 
 
 Open Mjpg Streamer automatically (webcam) while turning on Pi3
